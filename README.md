@@ -1,38 +1,28 @@
-<h1 align="center">Hi 👋, I'm DAniel</h1>
-<h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
+<h1 align="center">Hi 🥽🧪, Hola soy Daniel</h1>
+<h3 align="center">Un apasionado analista fisico quimico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**Soy Daniel Grueso tu analista quimico de confianza realizo todo tipos de analisis fisico quimicos y instrumental basica, capacotado en normas ISO, Incontec, NTC, para asegurar la calidad en los analisis, tambien manejo metrologia permitiendome calificar todo tipo de material volumetico y balanzas.**
 
------
 
-:computer: **Software Engineer**  
-:eyeglasses: **Hardcore Geek (is geek still used?)**  
-:oncoming_automobile: **SpaceX, technology, and simulator fan**  
 
----
+### De que me encargo?
 
-### What I work with
+**Analisis:** fisicos · quimicos · instrumetal · calidad de agua
 
-**Languages:** TypeScript · JavaScript · Python · SQL
-
-**Backend & infra:** Node.js · NestJS · FastAPI · Docker · PostgreSQL · Redis · GitHub Actions
-
-**Frontend:** Angular · React  · Tailwind CSS
-
-**Prompt engineering**
+**Calidad:**  Aguas · Material Volumetrico · balanzas 
 
 <!--**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI-->
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">mis redes sociales:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandgo" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/juandago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandgo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juandgo" height="30" width="40" /></a>
-<a href="https://x.com/GoJuand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankgrijalba" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/explore?lang=es" target="blank"><img align="center" src="https://img.magnific.com/premium-vector/tiktok-icon_459124-1998.jpg?semt=ais_hybrid&w=740&q=80" alt="juandgo" height="30" width="40" /></a>
+<a href="https://co.pinterest.com/" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Pinterest.svg/960px-Pinterest.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20170725025256" alt="juandgo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/?app=desktop&hl=es" target="blank"><img align="center" src="https://images.icon-icons.com/1488/PNG/512/5295-youtube-i_102568.png" alt="frankgrijalba" height="30" width="40" /></a>
 </p>
 
 
